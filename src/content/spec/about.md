@@ -1,5 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+
+
+
+> 欢迎来到我的博客，我是zom，喜欢编程和探索互联网的世界，跟随内心不迷路。
+> 
+> 兴趣爱好：
+> * 台球(偶尔能一杆清)
+> * 听歌(各种都听点)
+> * 追剧(完美、遮天)
+> * 
+
+
 
 ::github{repo="saicaca/fuwari"}
 
