@@ -11,7 +11,6 @@
 
 
 
-::github{repo="zom-zom/zom-zom"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)

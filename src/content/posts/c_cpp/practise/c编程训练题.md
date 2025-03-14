@@ -1,6 +1,6 @@
 ---
 title: c编程训练题
-published: 2025-03-14
+published: 2025-02-26
 description: ''
 image: ''
 tags: []
