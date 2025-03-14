@@ -19,6 +19,9 @@ published: 2023-10-19
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 
+## DouYin
+<iframe width="100%" height="468" src="https://open.douyin.com/player/video?vid=7449401547793911099" title="Douyin video player" frameborder="0" allowfullscreen="true"></iframe>
+
 ## YouTube
 
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
