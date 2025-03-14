@@ -8,11 +8,10 @@
 > * 台球(偶尔能一杆清)
 > * 听歌(各种都听点)
 > * 追剧(完美、遮天)
-> * 
 
 
 
-::github{repo="saicaca/fuwari"}
+::github{repo="zom-zom/zom-zom"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
