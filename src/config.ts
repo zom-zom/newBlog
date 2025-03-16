@@ -62,10 +62,15 @@ export const profileConfig: ProfileConfig = {
                                         // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://space.bilibili.com/401967002',
     },
+    // {
+    //   name: 'Tiktok',
+    //   icon: 'fa6-brands:tiktok',
+    //   url: 'https://v.douyin.com/i5udv4aY/',
+    // },
     {
-      name: 'Tiktok',
-      icon: 'fa6-brands:tiktok',
-      url: 'https://v.douyin.com/i5udv4aY/',
+      name: 'qq',
+      icon: 'fa6-brands:qq',
+      url: 'https://qm.qq.com/q/dHOUR7Z5Fm',
     },
     {
       name: 'GitHub',
